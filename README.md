@@ -5,4 +5,6 @@ In this project, I designed a personal website using HTML and CSS. I didn't desi
 
 **Screenshots**
 
-![ScreenShot](https://prnt.sc/Ufxt_549Z71f)
+<div align="center">
+    <img src="memo.png" width="400px"</img> 
+</div>
