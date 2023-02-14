@@ -1,0 +1,136 @@
+
+
+.anasayfa{
+   background:linear-gradient(to bottom, rgba(252, 153, 124, 0.2),rgba(250, 81, 30, 0.2)),url("beautiful-sky-over-a-forest-hd-wallpaper-3840x2160.jpg");
+   background-position: center;
+   opacity: 0.9;
+   background-size: cover;
+   height: 100vh;
+   background-attachment: fixed;
+   
+}
+
+.yazilar-1{
+   position: absolute;
+   top: 27%;
+   right: 45%;
+   font-size: larger;
+   color:black;
+   font-family: "Lucida Console", "Courier New", monospace;
+}
+
+.yazilar-2{
+   position: absolute;
+   top: 37%;
+   right: 38%;
+   font-size: 700%;
+   font-family: "Copperplate Gothic Light"; font-size: 70px; font-style: normal; font-variant: normal; font-weight: 700; line-height: 52.8px; } h3 { font-family: Copperplate, "Copperplate Gothic Light", fantasy; font-size: 14px; font-style: normal; font-variant: normal; font-weight: 700; line-height: 15.4px; } p { font-family: Copperplate, "Copperplate Gothic Light", fantasy; font-size: 14px; font-style: normal; font-variant: normal; font-weight: 400; line-height: 20px; } blockquote { font-family: Copperplate, "Copperplate Gothic Light", fantasy; font-size: 21px; font-style: normal; font-variant: normal; font-weight: 400; line-height: 30px; } pre { font-family: Copperplate, "Copperplate Gothic Light", fantasy; font-size: 13px; font-style: normal; font-variant: normal; font-weight: 400; line-height: 18.5714px;
+}
+
+
+.yazilar-3{
+   position: absolute;
+   top: 57%;
+   right: 49%;
+   font-size: larger;
+   color:black;
+   font-family: "Lucida Console", "Courier New", monospace;
+}
+.headd{
+   position: absolute;
+  height: 10vh;
+   width: 100vw;
+   top: 20%;
+}
+
+
+.yazi-1{
+   height: 7vh;
+   width: 6vw;
+   font-size: 16px;
+  margin: 10px;
+  padding: 5px;
+  color: rgba(0, 0, 0, 0.75);
+  display: inline-block;
+  border: 40px;
+  font-family: Sen, sans-serif;
+ 
+}
+.yazi-2{
+   height: 7vh;
+   width: 6vw;
+   font-size: 16px;
+  margin: 10px;
+  padding: 5px;
+  color: rgba(0, 0, 0, 0.75);
+  display: inline-block;
+  font-family: Sen, sans-serif;
+
+}
+.yazi-3{
+   height: 7vh;
+   width: 6vw;
+   font-size: 16px;
+  margin: 10px;
+  padding: 5px;
+  color: rgba(0, 0, 0, 0.75);
+  display: inline-block;
+  font-family: Sen, sans-serif;
+
+}
+.yazi-4{
+   height: 4vh;
+   width: 4vw;
+   font-size: 16px;
+  margin: 10px;
+  padding: 9px;
+  display: inline-block;
+  font-family: Sen, sans-serif;
+  border-style: solid;
+  border-color: #5221e6;
+  background-color: #5221e6;
+  color: aliceblue;
+
+}
+
+.yazi-1:hover{
+
+   color: #00FFFF;
+}
+.yazi-2:hover{
+
+   color: #00FFFF;
+   
+}
+.yazi-3:hover{
+
+   color: #00FFFF;
+}
+.yazi-4:hover{
+ opacity:0.3;
+ box-shadow: .2s;
+
+}
+.navs{
+   display: inline-block;
+   position:fixed;
+   margin-right: 35px;
+   margin-top: 15px;
+   top:0%;
+   right: 0%;
+
+}
+
+.logo{
+
+
+position: absolute;
+top:0%;
+
+
+
+}
+
+
+
+
