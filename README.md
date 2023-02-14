@@ -5,6 +5,5 @@ In this project, I designed a personal website using HTML and CSS. I didn't desi
 
 **Screenshots**
 
-<div align="center">
-    <img src="memo.png" width="400px"</img> 
-</div>
+![memo](https://user-images.githubusercontent.com/82098410/218686108-b77d06c8-3a25-40d0-84fa-9489fb17d882.png)
+
